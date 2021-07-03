@@ -1,0 +1,13 @@
+
+(1)Open API /Swagger  UI:
+	localhost:8083/swagger-ui.html
+
+(2)Open API defintion;	
+	localhost:8083/v3/api-docs
+	
+(3) Actuator( used for monitoring and management):
+	localhost:8083/actuator	
+	
+(4) HAL explorer( Used to visualize teh APIS includign headers):
+	localhost:8083	
+	
